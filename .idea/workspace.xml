@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3588824e-d7ed-48e0-9a20-98c8a06c83d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/upload_file/Frontend-upload-file.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upload-file/upload-file.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +30,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1iRIAi9C2hY9ARcbl06bZKUHrkZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,11 +65,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="313" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601863899657">
+    <state x="617" y="313" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601866288776">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="617" y="313" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.988@0.27.1920.988" timestamp="1601863899657" />
+    <state x="617" y="313" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.988@0.27.1920.988" timestamp="1601866288776" />
   </component>
 </project>
