@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3588824e-d7ed-48e0-9a20-98c8a06c83d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../meeting/201003meeting.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../upload-file/upload-file.md" beforeDir="false" afterPath="$PROJECT_DIR$/../upload-file/upload-file.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../meeting" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../meeting" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,9 +73,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="313" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601866288776">
+    <state x="617" y="313" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603075725023">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="617" y="313" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.988@0.27.1920.988" timestamp="1601866288776" />
+    <state x="617" y="313" width="675" height="414" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.988@0.27.1920.988" timestamp="1603075725023" />
+    <state x="441" y="155" key="SettingsEditor" timestamp="1603159784280">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="441" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1603159784280" />
   </component>
 </project>
