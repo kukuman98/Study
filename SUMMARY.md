@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Study](README.md)
+* [Debug](debug/README.md)
+  * [Invoice](debug/invoice.md)
 * [Git](git/README.md)
   * [Git User Cache](git/git-user-cache.md)
   * [Git stash](git/git-stash.md)
