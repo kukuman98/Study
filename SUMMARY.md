@@ -2,6 +2,7 @@
 
 * [Study](README.md)
 * [Git](git/README.md)
+  * [Git User Cache](git/git-user-cache.md)
   * [Git stash](git/git-stash.md)
   * [Git reflog](git/git-reflog.md)
 * [Django](django/README.md)
