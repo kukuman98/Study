@@ -1,6 +1,16 @@
 # Table of contents
 
 * [Study](README.md)
+* [AWS](aws/README.md)
+  * [setup stg/prod](aws/setup-stg-prod/README.md)
+    * [ec2 instance 創建](aws/setup-stg-prod/ec2-instance-chuang-jian.md)
+    * [instance 的初始化](aws/setup-stg-prod/instance-de-chu-shi-hua.md)
+    * [project 設置](aws/setup-stg-prod/project-she-zhi.md)
+    * [Route 53建立](aws/setup-stg-prod/route-53-jian-li/README.md)
+      * [Hosted zones創建](aws/setup-stg-prod/route-53-jian-li/hosted-zones-chuang-jian.md)
+      * [Record 創建](aws/setup-stg-prod/route-53-jian-li/record-chuang-jian/README.md)
+        * [Load Balancer 創建](aws/setup-stg-prod/route-53-jian-li/record-chuang-jian/load-balancer-chuang-jian/README.md)
+          * [ACM建立](aws/setup-stg-prod/route-53-jian-li/record-chuang-jian/load-balancer-chuang-jian/acm-jian-li.md)
 * [Debug](debug/README.md)
   * [Invoice](debug/invoice.md)
 * [Git](git/README.md)
