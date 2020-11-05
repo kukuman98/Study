@@ -16,5 +16,7 @@
 
 8.Record type 選擇A
 
+9.創建
+
 
 

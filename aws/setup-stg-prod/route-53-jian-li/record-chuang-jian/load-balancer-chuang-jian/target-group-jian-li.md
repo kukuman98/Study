@@ -14,3 +14,5 @@
 
 7.選擇想要的instance，然後出口選擇在那臺instance內project起的port出口進行連接。
 
+8.回到[Load Balancer](./)
+
