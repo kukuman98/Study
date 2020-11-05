@@ -4,7 +4,7 @@
 
 2."domain name"-app
 
-3.Health check path: /api/version
+3.Health check path: `/api/version`
 
 4.創建
 

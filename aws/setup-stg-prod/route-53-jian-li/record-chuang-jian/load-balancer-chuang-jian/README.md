@@ -22,9 +22,7 @@
 
 11.若已有Target Group不需要建立，建立[Target Group](target-group-jian-li.md)
 
-12.創建
+12.
 
-13.點選剛剛的建立的Load Balancer跳到[Lesteners](listeners-she-ding.md)開始設定
-
-14.回到[Record](../)
+13.
 
