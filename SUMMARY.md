@@ -23,6 +23,8 @@
   * [middleware](django/middleware.md)
   * [@property——decorator](django/property-decorator.md)
   * [django model反向查詢](django/django-model-fan-xiang-cha-xun.md)
+* [Django Admin Site](django-admin-site/README.md)
+  * [自定義css](django-admin-site/zi-ding-yi-css.md)
 * [工具快捷鍵](gong-ju-kuai-jie-jian/README.md)
   * [Vi Command](gong-ju-kuai-jie-jian/command-1.md)
   * [Tmux Command](gong-ju-kuai-jie-jian/command.md)
