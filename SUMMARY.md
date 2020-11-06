@@ -30,4 +30,5 @@
   * [Backend](upload-file/upload-file.md)
 * [Meeting](meeting/README.md)
   * [Meeting w1003](meeting/201003meeting.md)
+* [工具安裝列表](gong-ju-an-zhuang-lie-biao.md)
 
