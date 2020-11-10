@@ -4,7 +4,7 @@
 
 2.[進入該instance設置project](instance-de-chu-shi-hua.md) \(若已建立的instance可跳過這步\)
 
-3.[專案的設置](project-she-zhi.md)
+3.[專案的設置](project-she-zhi/)
 
 4.[定義網域 Route 53](route-53-jian-li/)
 
