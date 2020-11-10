@@ -61,17 +61,11 @@ rev-aws-backend-pull.sh
 chmod +x docker-start.sh 
 ```
 
-10.使用nohup 託管uwsgi
-
-```text
-nohup: appending output to 'nohup.out'
-```
-
-11.檢查是否已經啟動uwsgi
+10.檢查是否已經啟動uwsgi
 
 ```text
 netstat -ntlp
 ```
 
-12.回到[project 設置](./)
+11.回到[project 設置](./)
 
