@@ -47,3 +47,7 @@ class Command(BaseCommand):
 python3 manage.py "your command name".py -h/xxx.csv/... -h/xxx.csv/.... 
 ```
 
+### 線上資源參考
+
+[Django documentation](https://docs.djangoproject.com/en/3.1/howto/custom-management-commands/) 
+
