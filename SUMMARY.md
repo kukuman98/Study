@@ -3,7 +3,7 @@
 * [Study](README.md)
 * [ubuntu worker](ubuntu-worker.md)
 * [AWS](aws/README.md)
-  * [ssh config](aws/ssh-config.md)
+  * [ssh config setting](aws/ssh-config.md)
   * [setup stg/prod](aws/setup-stg-prod/README.md)
     * [ec2 instance 創建](aws/setup-stg-prod/ec2-instance-chuang-jian.md)
     * [instance 的初始化](aws/setup-stg-prod/instance-de-chu-shi-hua.md)

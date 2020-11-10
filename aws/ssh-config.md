@@ -1,4 +1,4 @@
-# ssh config
+# ssh config setting
 
 可以記住ssh連結的功能
 
