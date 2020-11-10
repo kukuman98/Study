@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Study](README.md)
+* [ubuntu worker](ubuntu-worker.md)
 * [AWS](aws/README.md)
+  * [ssh config](aws/ssh-config.md)
   * [setup stg/prod](aws/setup-stg-prod/README.md)
     * [ec2 instance 創建](aws/setup-stg-prod/ec2-instance-chuang-jian.md)
     * [instance 的初始化](aws/setup-stg-prod/instance-de-chu-shi-hua.md)
@@ -22,6 +24,7 @@
   * [Git stash](git/git-stash.md)
   * [Git reflog](git/git-reflog.md)
 * [Django](django/README.md)
+  * [Custom Django  manage.py Command](django/custom-django-manage.py-command.md)
   * [middleware](django/middleware.md)
   * [@property——decorator](django/property-decorator.md)
   * [django model反向查詢](django/django-model-fan-xiang-cha-xun.md)
