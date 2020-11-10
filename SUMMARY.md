@@ -17,6 +17,7 @@
           * [Listeners設定](aws/setup-stg-prod/route-53-jian-li/record-chuang-jian/load-balancer-chuang-jian/listeners-she-ding.md)
           * [Target Group 建立](aws/setup-stg-prod/route-53-jian-li/record-chuang-jian/load-balancer-chuang-jian/target-group-jian-li.md)
           * [ACM建立](aws/setup-stg-prod/route-53-jian-li/record-chuang-jian/load-balancer-chuang-jian/acm-jian-li.md)
+  * [server 下載文件](aws/server-xia-zai-wen-jian.md)
 * [Debug](debug/README.md)
   * [Invoice](debug/invoice.md)
 * [Git](git/README.md)
