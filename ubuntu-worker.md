@@ -30,7 +30,7 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
 4.[自訂義Django 管理指令](django/custom-django-manage.py-command.md)
 
-### crontab 線上資源
+### crontab 線上參考資源
 
 [crontab 生成器](https://crontab-generator.org/)    [crontab 時間生成器](https://crontab.guru/)
 
