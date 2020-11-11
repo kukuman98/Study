@@ -35,8 +35,8 @@ class Command(BaseCommand):
         try:
             # kwargs['command_item'][0] 是一個list[],可以取得在指令後面拿到的可能是str或者int
             # do something ...
-        except:
-            raise CommandError('your command error message')
+        except Exception as e:
+            raise CommandError(e)
 
         self.stdout.write(self.style.SUCCESS('your command success message'))
 ```
