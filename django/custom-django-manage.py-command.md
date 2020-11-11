@@ -33,7 +33,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         try:
-            # kwargs['command_item'] 可以取得在指令後面拿到的可能是file或者某些東西
+            # kwargs['command_item'][0] 是一個list[],可以取得在指令後面拿到的可能是str或者int
             # do something ...
         except:
             raise CommandError('your command error message')
