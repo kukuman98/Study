@@ -14,11 +14,10 @@ python3 manage.py help
 api/
     management/
         commands/
-            _private.py
             "your command name".py
 ```
 
-4.\_private.py是必須的文件，內容放空的就好了
+4.以及將該api已放入**settings.py的INSTALL\_APPS**內
 
 5.你的指令.py文件架構需要如下
 
