@@ -41,4 +41,5 @@
 * [Meeting](meeting/README.md)
   * [Meeting w1003](meeting/201003meeting.md)
 * [工具安裝列表](gong-ju-an-zhuang-lie-biao.md)
+* [Django css 問題](django-css-wen-ti.md)
 
