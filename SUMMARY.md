@@ -35,6 +35,7 @@
 * [工具快捷鍵](gong-ju-kuai-jie-jian/README.md)
   * [Vi Command](gong-ju-kuai-jie-jian/command-1.md)
   * [Tmux Command](gong-ju-kuai-jie-jian/command.md)
+  * [mac terminal](gong-ju-kuai-jie-jian/mac-terminal.md)
 * [Upload-file](upload-file/README.md)
   * [Backend](upload-file/upload-file.md)
 * [Meeting](meeting/README.md)
