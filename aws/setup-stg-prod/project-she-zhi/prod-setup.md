@@ -55,23 +55,11 @@ rev-aws-backend-pull.sh
 
 8.輸入4 選擇restart server
 
-9.更改docker-start.sh權限
-
-```text
-chmod +x docker-start.sh 
-```
-
-10.使用nohup 託管uwsgi
-
-```text
-nohup: appending output to 'nohup.out'
-```
-
-11.檢查是否已經啟動uwsgi
+9.檢查是否已經啟動uwsgi
 
 ```text
 netstat -ntlp
 ```
 
-12.回到[project 設置](./)
+10.回到[project 設置](./)
 
