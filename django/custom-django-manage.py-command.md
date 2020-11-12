@@ -43,7 +43,7 @@ class Command(BaseCommand):
 6.其中add\_arguments function是可/不可加入，作用是取得指令後面的功能或者文件，比如
 
 ```text
-python3 manage.py "your command name".py -h/xxx.csv/... -h/xxx.csv/.... 
+python3 manage.py "your command name".py -h/file path/... -h/file path/.... 
 ```
 
 ### 線上資源參考
