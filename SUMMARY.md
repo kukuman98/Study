@@ -24,7 +24,6 @@
   * [Git User Cache](git/git-user-cache.md)
   * [Git stash](git/git-stash.md)
   * [Git reflog](git/git-reflog.md)
-* [Untitled](untitled.md)
 * [Django](django/README.md)
   * [Custom Django  manage.py Command](django/custom-django-manage.py-command.md)
   * [middleware](django/middleware.md)
