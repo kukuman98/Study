@@ -24,7 +24,7 @@
 
 12.創建
 
-13.點選剛剛的建立的Load Balancer跳到[Listeners](listeners-she-ding.md)開始設定
+13.點選剛剛的建立的Load Balancer跳到[Lesteners](listeners-she-ding.md)開始設定
 
 14.回到[Record](../)
 
