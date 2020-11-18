@@ -19,6 +19,7 @@
           * [ACM建立](aws/setup-stg-prod/route-53-jian-li/record-chuang-jian/load-balancer-chuang-jian/acm-jian-li.md)
   * [server 下載文件](aws/server-xia-zai-wen-jian.md)
 * [Debug](debug/README.md)
+  * [nohup.out log](debug/nohup.out-log.md)
   * [Invoice](debug/invoice.md)
 * [Git](git/README.md)
   * [Git User Cache](git/git-user-cache.md)
