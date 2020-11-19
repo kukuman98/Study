@@ -4,4 +4,7 @@
 2. [middleware](middleware.md)
 3. [property](property-decorator.md)
 4. [反向查詢](django-model-fan-xiang-cha-xun.md)
+5. [Django makemigrations model delete](django-zi-liao-ku-shan-chu-migrations-bao-cun-zhi-qian-zi-liao.md) 
+
+
 
