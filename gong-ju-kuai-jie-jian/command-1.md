@@ -20,6 +20,8 @@ vi 'name'
 * w! -- 強制儲存
 * q! -- 強制退出
 * e! -- 還原
+* set number -- 顯示行數
+* set nonumber -- 不顯示行數
 
 ## Generate Mode
 
