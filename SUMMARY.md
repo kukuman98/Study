@@ -32,6 +32,7 @@
   * [django model反向查詢](django/django-model-fan-xiang-cha-xun.md)
   * [Django資料庫刪除migrations保存之前資料](django/django-zi-liao-ku-shan-chu-migrations-bao-cun-zhi-qian-zi-liao.md)
   * [創建setting.py 變數](django/chuang-jian-setting.py-bian-shu.md)
+  * [Enum 枚舉](django/enum-mei-ju.md)
 * [Django Admin Site](django-admin-site/README.md)
   * [自定義css](django-admin-site/zi-ding-yi-css.md)
 * [工具快捷鍵](gong-ju-kuai-jie-jian/README.md)
