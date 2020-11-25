@@ -2,6 +2,8 @@
 
 * [Study](README.md)
 * [ubuntu worker](ubuntu-worker.md)
+* [PyPI](pypi/README.md)
+  * [更新Package](pypi/geng-xin-package.md)
 * [AWS](aws/README.md)
   * [ssh config setting](aws/ssh-config.md)
   * [setup stg/prod](aws/setup-stg-prod/README.md)
