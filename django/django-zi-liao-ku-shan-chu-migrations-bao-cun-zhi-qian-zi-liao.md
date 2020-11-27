@@ -19,7 +19,7 @@
 >> .
 ```
 
-3.製作虛擬空的資料庫給想要刪除model的app
+3.使想要調整的資料庫回到零的migrations history
 
 ```text
 ./manage.py migrate --fake "app_name" zero
@@ -54,7 +54,7 @@
 ./manage.py makemigrations
 ```
 
-9.製作完後，再把之前的虛擬資料庫還原使用。
+9.製作完後，再生成新的0001\_\_initial。
 
 ```text
 ./manage.py migrate --fake-initial
