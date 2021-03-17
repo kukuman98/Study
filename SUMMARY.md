@@ -49,4 +49,7 @@
   * [Meeting w1102](meeting/meeting-w1102.md)
   * [Meeting w1104](meeting/meeting-w1103-04.md)
 * [Django css 問題](django-css-wen-ti.md)
+* [Fastapi](fastapi/README.md)
+  * [config](fastapi/config.md)
+  * [setup](fastapi/setup.md)
 
