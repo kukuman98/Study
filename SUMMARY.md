@@ -2,6 +2,7 @@
 
 * [Study](README.md)
 * [ubuntu worker](ubuntu-worker.md)
+* [Docker uWSGI](docker-uwsgi.md)
 * [PyPI](pypi/README.md)
   * [更新Package](pypi/geng-xin-package.md)
 * [AWS](aws/README.md)
