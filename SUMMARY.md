@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Study](README.md)
-* [fastapi setup prod check list](fastapi-setup-prod-check-list.md)
-* [revtel-cli](revtel-cli.md)
 * [ubuntu worker](ubuntu-worker.md)
 * [Docker uWSGI](docker-uwsgi.md)
 * [PyPI](pypi/README.md)
@@ -55,4 +53,6 @@
 * [Fastapi](fastapi/README.md)
   * [config](fastapi/config.md)
   * [setup](fastapi/setup.md)
+* [revtel-cli](revtel-cli.md)
+* [fastapi setup prod check list](fastapi-setup-prod-check-list.md)
 
