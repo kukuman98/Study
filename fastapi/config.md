@@ -4,6 +4,6 @@ Using configtor
 
 
 ```text
-configtor render
+configtor render --stage stg/prod
 ```
 
