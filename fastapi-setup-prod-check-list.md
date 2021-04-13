@@ -20,6 +20,7 @@
 18. payment redirect url
 19. statemachine 
 20. sms 內容
+21. check other mirco server permission and cors
 
 release: 20xx/x/xx xx:xx
 
