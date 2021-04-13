@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Study](README.md)
+* [revtel-cli](revtel-cli.md)
 * [ubuntu worker](ubuntu-worker.md)
 * [Docker uWSGI](docker-uwsgi.md)
 * [PyPI](pypi/README.md)
