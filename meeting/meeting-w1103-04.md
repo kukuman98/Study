@@ -1,4 +1,4 @@
-# Meeting w1103/04
+# Meeting w1104
 
 1.Django makemigrations 遷移文件問題
 

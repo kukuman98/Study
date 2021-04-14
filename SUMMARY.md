@@ -53,6 +53,7 @@
 * [Fastapi](fastapi/README.md)
   * [config](fastapi/config.md)
   * [setup](fastapi/setup.md)
+  * [Callback Setup](fastapi/callback-setup.md)
 * [revtel-cli](revtel-cli.md)
 * [fastapi setup prod check list](fastapi-setup-prod-check-list.md)
 * [Invoice Example](invoice-example.md)
