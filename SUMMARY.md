@@ -55,4 +55,5 @@
   * [setup](fastapi/setup.md)
 * [revtel-cli](revtel-cli.md)
 * [fastapi setup prod check list](fastapi-setup-prod-check-list.md)
+* [Invoice Example](invoice-example.md)
 
