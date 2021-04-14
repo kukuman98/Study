@@ -7,6 +7,10 @@
    * Use an existing role\( Your lambda function\)
    * create
    * handler（Your callback function location ex: api.callback.callback）
+   * setting vpc \( only prod\)
+   * Vpc:name:vpc-to-atlas
+   * Subnet: Name:services-prod-private-01,services-prod-private-02
+   * Security groups:default VPC security group
 
 2. AWS的 SNS 服務新增Topic
 
@@ -26,4 +30,6 @@
 ![serverless.yml file](../.gitbook/assets/jie-tu-20210414-xia-wu-3.11.02.png)
 
 arn = topic's arn
+
+
 
