@@ -25,5 +25,5 @@
 
 ![serverless.yml file](../.gitbook/assets/jie-tu-20210414-xia-wu-3.11.02.png)
 
-
+arn = topic's arn
 
