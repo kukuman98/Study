@@ -53,6 +53,7 @@
 * [Fastapi](fastapi/README.md)
   * [config](fastapi/config.md)
   * [setup](fastapi/setup.md)
+  * [Create Domain](fastapi/create-domain.md)
   * [Lambda Setup](fastapi/lambda-setup.md)
   * [Callback Setup](fastapi/callback-setup.md)
 * [revtel-cli](revtel-cli.md)
