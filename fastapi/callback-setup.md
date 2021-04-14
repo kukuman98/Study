@@ -2,7 +2,7 @@
 
 1. 新增lambda function
 
-   * name: yaslab-api-fast-prod-dispatcher
+   * name: xxx\(project-name\)-stg/prod-dispatcher
    * python3.8
    * Use an existing role\( Your lambda function\)
    * create
@@ -14,7 +14,7 @@
 
 2. AWS的 SNS 服務新增Topic
 
-   * Name: yaslab-api-fast-prod
+   * Name: xxx\(project-name\)-prod
    * type:Standard
    * create
 
