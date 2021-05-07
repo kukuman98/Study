@@ -18,3 +18,11 @@ prod要設定VPC
 * Subnet: Name:services-prod-private-01,services-prod-private-02
 * Security groups:default VPC security group
 
+S3 操作權限：
+
+選擇AmazonS3FullAccess
+
+SNS 操作權限：
+
+選擇AmazonSNSFullAccess
+
