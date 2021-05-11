@@ -13,7 +13,7 @@
 9. notification
 10. issuer 
 11. email format
-12. prod IAM setting
+12. prod IAM\(permission\) setting
 13. prod VPC setting
 14. all api
 15. checkout flow
