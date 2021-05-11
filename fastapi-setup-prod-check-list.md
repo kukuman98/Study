@@ -13,18 +13,20 @@
 9. notification
 10. issuer 
 11. email format
-12. all api
-13. checkout flow
-14. invoice
-15. social sign in
-16. frontend domain 
-17. auth redirect url 
-18. payment redirect url
-19. statemachine 
-20. sms 內容
-21. check other mirco server permission and cors
-22. storage cors & default\_cdn
-23. callback
+12. prod IAM setting
+13. prod VPC setting
+14. all api
+15. checkout flow
+16. invoice
+17. social sign in
+18. frontend domain 
+19. auth redirect url 
+20. payment redirect url
+21. statemachine 
+22. sms 內容
+23. check other mirco server permission and cors
+24. storage cors & default\_cdn
+25. callback
 
 release: 20xx/x/xx xx:xx
 
