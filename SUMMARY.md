@@ -59,4 +59,7 @@
 * [revtel-cli](revtel-cli.md)
 * [fastapi setup prod check list](fastapi-setup-prod-check-list.md)
 * [Invoice Example](invoice-example.md)
+* [Sens-note](sens-note/README.md)
+  * [sens-v2-note](sens-note/sens-v2-note.md)
+  * [eculture-api-note](sens-note/eculture-api-note.md)
 
