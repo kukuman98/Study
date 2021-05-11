@@ -62,4 +62,7 @@
 * [Sens-note](sens-note/README.md)
   * [sens-v2-note](sens-note/sens-v2-note.md)
   * [eculture-api-note](sens-note/eculture-api-note.md)
+* [MongoDB Connect](mongodb-connect/README.md)
+  * [serverless connect](mongodb-connect/serverless-connect.md)
+  * [project connect](mongodb-connect/project-connect.md)
 
