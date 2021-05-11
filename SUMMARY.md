@@ -51,6 +51,7 @@
   * [Meeting w1104](meeting/meeting-w1103-04.md)
 * [Django css 問題](django-css-wen-ti.md)
 * [Fastapi](fastapi/README.md)
+  * [setup serverless in fastapi](fastapi/setup-serverless-in-fastapi.md)
   * [config](fastapi/config.md)
   * [setup](fastapi/setup.md)
   * [Create Domain](fastapi/create-domain.md)
