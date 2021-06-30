@@ -25,6 +25,7 @@
   * [nohup.out log](debug/nohup.out-log.md)
   * [Invoice](debug/invoice.md)
 * [Git](git/README.md)
+  * [Git password error](git/git-password-error.md)
   * [Git User Cache](git/git-user-cache.md)
   * [Git stash](git/git-stash.md)
   * [Git reflog](git/git-reflog.md)
