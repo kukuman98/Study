@@ -67,4 +67,6 @@
 * [MongoDB Connect](mongodb-connect/README.md)
   * [serverless connect](mongodb-connect/serverless-connect.md)
   * [project connect](mongodb-connect/project-connect.md)
+* [PO 這回事](po-zhe-hui-shi/README.md)
+  * [評估與排程](po-zhe-hui-shi/ping-gu-yu-pai-cheng.md)
 
