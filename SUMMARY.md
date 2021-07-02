@@ -69,4 +69,6 @@
   * [project connect](mongodb-connect/project-connect.md)
 * [PO 這回事](po-zhe-hui-shi/README.md)
   * [評估與排程](po-zhe-hui-shi/ping-gu-yu-pai-cheng.md)
+  * [Yes man](po-zhe-hui-shi/yes-man.md)
+  * [溝通的問題](po-zhe-hui-shi/gou-tong-de-wen-ti.md)
 
