@@ -41,6 +41,7 @@
 * [Django Admin Site](django-admin-site/README.md)
   * [自定義css](django-admin-site/zi-ding-yi-css.md)
 * [工具快捷鍵](gong-ju-kuai-jie-jian/README.md)
+  * [Vim command](gong-ju-kuai-jie-jian/vim-command.md)
   * [Vi Command](gong-ju-kuai-jie-jian/command-1.md)
   * [Tmux Command](gong-ju-kuai-jie-jian/command.md)
   * [mac terminal](gong-ju-kuai-jie-jian/mac-terminal.md)
