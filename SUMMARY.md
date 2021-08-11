@@ -22,6 +22,7 @@
           * [ACM建立](aws/setup-stg-prod/route-53-jian-li/record-chuang-jian/load-balancer-chuang-jian/acm-jian-li.md)
   * [server 下載文件](aws/server-xia-zai-wen-jian.md)
   * [lambda 掛 ip](aws/lambda-gua-ip.md)
+  * [子網路遮罩](aws/zi-wang-lu-zhe-zhao.md)
 * [Debug](debug/README.md)
   * [nohup.out log](debug/nohup.out-log.md)
   * [Invoice](debug/invoice.md)
