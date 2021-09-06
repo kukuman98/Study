@@ -33,6 +33,7 @@
   * [Git reflog](git/git-reflog.md)
   * [New repo from a branch](git/new-repo-from-a-branch.md)
   * [Git merge a special commit](git/git-merge-a-special-commit.md)
+  * [Git delete branch](git/git-delete-branch.md)
 * [Django](django/README.md)
   * [Custom Django  manage.py Command](django/custom-django-manage.py-command.md)
   * [middleware](django/middleware.md)
