@@ -5,6 +5,7 @@
 3. [Git stash](git-stash.md)
 4. [Git reflog](git-reflog.md)
 5. [New repo from a branch](new-repo-from-a-branch.md)
+6. [Git merge a special commit](git-merge-a-special-commit.md)
 
 
 
