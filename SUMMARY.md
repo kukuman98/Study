@@ -3,6 +3,8 @@
 * [Study](README.md)
 * [ubuntu worker](ubuntu-worker.md)
 * [Docker uWSGI](docker-uwsgi.md)
+* [Docker](docker/README.md)
+  * [setup MongoDB](docker/setup-mongodb.md)
 * [PyPI](pypi/README.md)
   * [更新Package](pypi/geng-xin-package.md)
 * [AWS](aws/README.md)
@@ -76,4 +78,3 @@
   * [評估與排程](po-zhe-hui-shi/ping-gu-yu-pai-cheng.md)
   * [Yes man](po-zhe-hui-shi/yes-man.md)
   * [溝通的問題](po-zhe-hui-shi/gou-tong-de-wen-ti.md)
-
