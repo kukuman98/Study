@@ -43,7 +43,7 @@ mongodb://<username>:<password>@<host>:<port>/?authSource=admin
 這邊設置的話會是
 
 ```
-mongodb://admin:aaron98@localhost:27888/?authSource=admin
+mongodb://mongo-admin:mongo-test@localhost:27888/?authSource=admin
 ```
 
 然後將url 貼上 mongodb compass 就可以連結db了
