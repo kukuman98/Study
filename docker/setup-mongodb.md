@@ -18,11 +18,11 @@ docker image inspect mongo
 
 ```
 docker run \
--v /Users/potato/workspace/docker_file/mongo.conf:/etc/mongo.conf \
--v /Users/potato/workspace/docker_file/db:/data/db \
--d  --name mongo-on-docker  -p 27888:27017 \
--e MONGO_INITDB_ROOT_USERNAME=admin \
--e MONGO_INITDB_ROOT_PASSWORD=aaron98 mongo
+-v ~/docker_file/mongo.conf:/etc/mongo.conf \
+-v ~/docker_file/db:/data/db \
+-d  --name mongodb  -p 27888:27017 \
+-e MONGO_INITDB_ROOT_USERNAME=mongo-admin \
+-e MONGO_INITDB_ROOT_PASSWORD=mongo-test mongo
 ```
 
 * docker run： 執行docker 指令
