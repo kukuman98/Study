@@ -55,7 +55,7 @@ pymongo aggregate response
     {
         "id": "xxx1",
         "tool_id": "toolxxx1",
-        "tool": {
+        "tools": {
             "tool_id": "toolxxx3",
             "misc_data": "xxx3",
             ...
@@ -64,7 +64,7 @@ pymongo aggregate response
     {
         "id": "xxx2",
         "tool_id": "toolxxx2",
-        "tool": null,
+        "tools": null,
         ...
     }
 ]
