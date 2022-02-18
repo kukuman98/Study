@@ -34,7 +34,7 @@ case with $indexOfArray & $arrayElemAt
 ```python
 conn.aggregate(
     [
-        {"$match": {"id": "xxx1"},
+        {"$match": {"id": {"$in": ["xxx1", "xxx2"]}},
         # 使用 $indexOfArray 找出 array 對應的 tool_id 所屬的 index
         {
             "$addFields": {
