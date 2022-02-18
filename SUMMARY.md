@@ -3,6 +3,8 @@
 * [Study](README.md)
 * [MongoDB](mongodb/README.md)
   * [Atomic](mongodb/atomic.md)
+  * [Aggregate](mongodb/aggregate/README.md)
+    * [Fetch Array Object](mongodb/aggregate/fetch-array-object.md)
 * [ubuntu worker](ubuntu-worker.md)
 * [Docker uWSGI](docker-uwsgi.md)
 * [Docker](docker/README.md)
